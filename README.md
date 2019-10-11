@@ -1,1 +1,2 @@
-# Coulter_McHugh_MidTermLab
+# Matt, Carter and Quinn's Mid Term
+
