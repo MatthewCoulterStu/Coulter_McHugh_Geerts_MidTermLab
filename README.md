@@ -1,5 +1,4 @@
-# Coulter_McHugh_MidTermLab
-ReadMe File by Geerts on github - 
-Site outline by Coulter & McHugh
+# Matt, Carter and Quinn's Mid Term
 
 Gamecube vs. PS2
+
