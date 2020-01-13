@@ -15,8 +15,8 @@ All you will need is a modern web browser as well as git installed locally.
 ## Authors 
 
 <ul>
-	<li>Quinn McHugh - Debating for Gamecube</li>
-	<li>Carter Geerts - Debating for PlayStation 2</li>	
+	<li>Carter Geerts - Debating for Gamecube</li>
+	<li>Quinn McHugh - Debating for PlayStation 2</li>	
 	<li>Matthew Coulter - Read me author/ Closing remarks</li>
 </ul>
 
